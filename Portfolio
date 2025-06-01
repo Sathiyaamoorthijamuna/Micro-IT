@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <i>Jamuna</i>
+        <nav>
+            <a href="./index.html">Home</a>
+            <a href="./about.html">About</a>
+            <a href="./skills.html">Skills</a>
+            <a href="./project.html">Projects</a>
+            <!-- <a href="#">Resume</a> -->
+            <a href="./contact.html">Contact</a>
+        </nav>
+    </header>
+    <div class="container">
+        <div class="right">
+            <img src="./jamu.jpg" width="500px" height="500px">
+        </div>
+        <div class="left">
+            <h2>About</h2>
+            <br>
+            <p>I am a student actively involved in Blockchain and Tamil Literature clubs.I have experience in HTML,CSS,JS and I'm currently working web developement related project like,Calculator,Portfolio,Landing page,Tribute page,edc.I have strong interest in programming language,often engaging in problem-solving and learning new skills.</p>
+        </div>
+    </div>
+</body>
+</html>
